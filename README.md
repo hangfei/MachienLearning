@@ -7,12 +7,12 @@ Predicted the rating of Yelp reviews given review text and other review informat
 - Visualized sentiment analysis results
 - Enabled restaurants to improve their services via the feedback of low rating review
 
-###Results:
+####Results:
 RMSE: 0.89
 (Off by at most half a star of the actual result for a review.)
 
 
-###Support Package:
+####Support Package:
 - Libnear
 
 ##Installation instructions 
