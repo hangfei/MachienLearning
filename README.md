@@ -7,6 +7,12 @@ Predicted the rating of Yelp reviews given review text and other review informat
 - Visualized sentiment analysis results
 - Enabled restaurants to improve their services via the feedback of low rating review
 
+
+Results:
+RMSE: 0.89
+(Off by at most half a star of the actual result for a review.)
+
+
 ##Installation instructions 
 Matlab, and related packages
 
@@ -27,12 +33,9 @@ Hangfei Lin, Di Mu, Sanjay Paul
 
 
 
-Results:
-RMSE: 0.89
-(Off by at most half a star of the actual result for a review.)
-
 - - - -
 ####Infographics for key words of high rating and low rating.
+Credit: Di Mu
 ![picture alt](https://raw.githubusercontent.com/hangfei/MachienLearning/master/Infograph_good.jpg "Title is optional")
 
 ![picture alt](https://raw.githubusercontent.com/hangfei/MachienLearning/master/Infograph_bad.jpg "Title is optional")
