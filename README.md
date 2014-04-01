@@ -1,9 +1,18 @@
 MachienLearning
 ===============
 
-Support Package:
+##Installation instructions 
+
+##Where to get help
+
+###Support Package:
 - Libnear
 
+##Contribution guidelines
+
+##Contributor list
+
+##Credits, Inspiration, Alternatives
 
 Results:
 RMSE: 0.89
