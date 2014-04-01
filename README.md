@@ -1,18 +1,31 @@
 MachienLearning
 ===============
+##Description
+Predicted the rating of Yelp reviews given review text and other review information
+- Processed the raw data, including information retrieval, feature selection, data rescaling, bigrams
+- Implemented and combined various models, including PCA/SVD, SVM, Logistic Regression
+- Visualized sentiment analysis results
+- Enabled restaurants to improve their services via the feedback of low rating review
 
 ##Installation instructions 
+Matlab, and related packages
+
 
 ##Where to get help
+
 
 ###Support Package:
 - Libnear
 
 ##Contribution guidelines
 
+
 ##Contributor list
+Hangfei Lin, Di Mu, Sanjay Paul
 
 ##Credits, Inspiration, Alternatives
+
+
 
 Results:
 RMSE: 0.89
