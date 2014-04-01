@@ -4,4 +4,4 @@ MachienLearning
 
 
 - - - -
-![picture alt](https://github.com/hangfei/MachienLearning/blob/master/Infograph_bad.jpg "Title is optional")
+![picture alt](https://raw.githubusercontent.com/hangfei/MachienLearning/master/Infograph_bad.jpg "Title is optional")
