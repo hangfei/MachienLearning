@@ -7,25 +7,28 @@ Predicted the rating of Yelp reviews given review text and other review informat
 - Visualized sentiment analysis results
 - Enabled restaurants to improve their services via the feedback of low rating review
 
+##Project Architectrue
+We have tried multiple methods to pushing the edges of our results. The optimal one(with best accuracy and best speed) is in the 
+
 ####Results:
 RMSE: 0.89
 (Off by at most half a star of the actual result for a review.)
 
 
-####Support Package:
-- Libnear
+####Supporting Package:
+- Libnear(http://www.csie.ntu.edu.tw/~cjlin/liblinear/)
 
 ##Installation instructions 
 Matlab, and related packages
 
 
 ##Where to get help
-
+TBD
 
 
 
 ##Contribution guidelines
-
+TBD
 
 ##Contributor list
 Hangfei Lin, Di Mu, Sanjay Paul
